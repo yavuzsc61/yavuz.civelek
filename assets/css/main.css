@@ -1666,3 +1666,9 @@ input, select, textarea {
   margin-bottom: 1.5em;    /* alttaki ana metinden ayır */
   font-style: italic;
 }
+.project-divider {
+    border: none;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    margin: 2.5em 0;
+}
+
